@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>Carros</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-	</natures>
-</projectDescription>
-=======
-  <name>Carros</name>
+  <name>IMC-teste</name>
   <comment/>
   <projects/>
   <buildSpec>
@@ -24,4 +13,3 @@
     <nature>org.eclipse.jdt.core.javanature</nature>
   </natures>
 </projectDescription>
->>>>>>> hands-on-coursera
